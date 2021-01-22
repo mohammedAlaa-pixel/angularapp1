@@ -1,0 +1,15 @@
+
+.home{
+    background-color:#1abc9c;
+    height: 100vh;
+}
+img{
+width: 70%;
+}
+.caption{
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    font-family: cursive;
+    transform: translateY(90px);
+}

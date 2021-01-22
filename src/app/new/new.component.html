@@ -1,0 +1,13 @@
+
+
+<div *ngIf="noDataFound">
+    Not found 
+<div *ngIf="!noDataFound">
+    datafond
+</div>
+<button (click)="addToCart()">addToCart</button>
+<ul>
+    <li *ngFor =" let friend of friends">
+        {{friend}}
+    </li>
+</ul>

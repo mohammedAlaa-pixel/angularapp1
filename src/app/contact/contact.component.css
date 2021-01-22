@@ -1,0 +1,18 @@
+.contact{
+    text-align: center;
+    color: #2c3e50;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: cursive;
+}
+.mail{
+    font-size: 25px ;
+    font-family: cursive;
+}
+.pass{
+    font-size: 25px ;
+    font-family: cursive;
+}
+.container4{
+    height: 100vh;
+}
